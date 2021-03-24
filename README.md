@@ -5,4 +5,4 @@ These are the blogs/articles I have read or would like to read . I wanna get int
 - [How Discord Stores Billions of Messages](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7/)
 
 <h6>Database</h6>
-- [Hibernate ruined her life](https://medium.com/@ggajos/how-hibernate-almost-ruined-16f31ba7d381/)
+- [Hibernate ruined her career](https://medium.com/@ggajos/how-hibernate-almost-ruined-16f31ba7d381/)
