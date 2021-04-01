@@ -13,4 +13,4 @@ These are the blogs/articles I have read or would like to read . I wanna get int
 
 <h6>Communication</h6>
 
-- [How REST is lightweight?](https://stackoverflow.com/questions/20088759/how-rest-is-lightweight#:~:text=REST%20is%20lightweight%20in%20that,is%20the%20way%20to%20go.&text=REST%20essentially%20requires%20HTTP%20and,%2C%20JSON%2C%20HTML%20etc)
+- [How REST is lightweight?](https://stackoverflow.com/questions/20088759/how-rest-is-lightweight)
