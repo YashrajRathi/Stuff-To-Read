@@ -14,3 +14,5 @@ These are the blogs/articles I have read or would like to read . I wanna get int
 <h6>Communication</h6>
 
 - [How REST is lightweight?](https://stackoverflow.com/questions/20088759/how-rest-is-lightweight)
+
+- [When to use gRPC over REST?](https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794)
